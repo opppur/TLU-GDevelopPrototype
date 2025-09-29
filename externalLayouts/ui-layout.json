@@ -1,0 +1,52 @@
+{
+  "associatedLayout": "Level1",
+  "name": "UI Layout",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 128,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "Cherries",
+      "persistentUuid": "dcbd75bb-ce40-44de-9cc6-23c43617bcef",
+      "width": 128,
+      "x": 53,
+      "y": 43,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI Layer",
+      "name": "CoinText",
+      "persistentUuid": "1ea04b0b-545a-434a-93c8-24a07d5aba00",
+      "width": 0,
+      "x": 168,
+      "y": 99,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 1.4307927813134265,
+    "windowMask": false
+  }
+}
